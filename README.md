@@ -1,7 +1,4 @@
 # <div align="center">👋 Hey there, I'm Nelli!</div>
-
-I am a Full-Stack Developer passionate about building useful and creative digital projects. My goal is to continuously improve my skills and contribute to meaningful work. I enjoy working in teams and solving web development challenges. Let's build something amazing together! 🤓 🚀
-
 ## <div align="center">My Skill Set</div>
 
 <p align="center">
