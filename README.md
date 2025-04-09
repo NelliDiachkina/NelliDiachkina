@@ -6,7 +6,7 @@ I am a Full-Stack Developer passionate about building useful and creative digita
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,vue,nextjs,nodejs,mongodb,vite,tailwind,git,postman,vercel,figma&perline=16" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,vue,nodejs,mongodb,vite,tailwind,git,postman,vercel,figma&perline=16" />
   </a>
 </p>
 
